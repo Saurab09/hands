@@ -1,1 +1,1 @@
-worker:python rough.py
+worker: python rough.py
